@@ -1,0 +1,20 @@
+{
+  "name": "math-floating-point-addition-tests",
+  "version": "1.0.0",
+  "description": "testing out different approaches to addition. ",
+  "main": "output.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mathjs",
+    "floating",
+    "point",
+    "addition"
+  ],
+  "author": "thisissami",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^6.2.2"
+  }
+}
